@@ -7,6 +7,9 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/time-series-forecasting-r.html
 
+https://www.tertiarycourses.com.my/time-series-forecasting-r-malaysia.html
+
+
 <p><strong>Module 1: Basics of Time Series</strong></p>
 <ul>
 <li>Why study time series?</li>
