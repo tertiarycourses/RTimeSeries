@@ -1,5 +1,5 @@
 # Time Series Forecasting in R
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Time Series Forecasting in R](https://www.tertiarycourses.com.sg/time-series-forecasting-r.html) course. 
 
